@@ -6,4 +6,4 @@
 #### 프론트엔드 정리
 
 [모던 자바스크립트 기본 - 문법](https://github.com/rosenari/javascriptinfo/tree/main/%ED%8C%8C%ED%8A%B81%EC%A0%95%EB%A6%AC) [ 참고사이트: https://ko.javascript.info/ ]<br>
-[리액트 기초와 활용 ](https://github.com/rosenari/reactinfo) [ 참고책: 실전 리액트 프로그래밍 - 이재승 ] 
+[타입스크립트 ](https://github.com/rosenari/typescript-info) [ 참고사이트: https://typescript-kr.github.io/ ] <br>
